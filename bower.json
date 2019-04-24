@@ -1,0 +1,16 @@
+{
+  "name": "tracking_theme",
+  "authors": [
+    "unamed1111 <unamed11111@gmail.com>"
+  ],
+  "description": "Tudm get Bower",
+  "main": "/",
+  "keywords": [
+    "tracking_theme"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/unamed1111/tracking_theme.git",
+  "ignore": [
+    "README.md"
+  ]
+}
